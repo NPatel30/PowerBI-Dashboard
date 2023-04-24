@@ -1,5 +1,23 @@
 # PowerBI Dashboard-AdventureWorks
 Microsoft AdventureWorks Database Analysis and Visualization with PowerBI. It's sample database, I chose 'AdventureWorksLT2019.bak' and 'AdventureWorksLT2017.bak' data for analysis &amp; visualization. The query editing was done in 'Microsoft SQL Server Management Studio' and visualization part was using 'Microsoft Power BI'. Also for analysis I used MS Excel and PowerBI's query tool.
+## Business Request
+Sales Manager wants you to:
+- Move static reports to visual dashboards.
+- Wants to know the number of different products sold to the different clients over the period of time.
+- Improve internet sales report.
+- Also needs Filters for the Sales Force.
+- Measure numbers against Budget. Provided SalesBudget spreadsheet to compare value against performance.
+- FYI Budget is for 2021, we usually look 2 years back in time when we perform analysis.
+
+ ### Business Demand Overview and User Stories(Using Agile Framework)
+ Business Demand Overview:
+Reporter: xyz -Sales Manager
+Value of Change: Visual Dashboards and Sales reporting.
+Necessary Systems: PowerBI, CRM System
+Other relevant information?: Budgets have been delivered in Excel for 2021.
+
+### User Stories
+![image](https://user-images.githubusercontent.com/109983335/234036553-d116c3c0-af6f-4c4a-b213-af67b31d54d3.png)
 
 ### Database Link: https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
