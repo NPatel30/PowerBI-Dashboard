@@ -9,12 +9,12 @@ Sales Manager wants you to:
 - Measure numbers against Budget. Provided SalesBudget spreadsheet to compare value against performance.
 - FYI Budget is for 2021, we usually look 2 years back in time when we perform analysis.
 
- ### Business Demand Overview and User Stories(Using Agile Framework)
- Business Demand Overview:
-Reporter: xyz -Sales Manager
-Value of Change: Visual Dashboards and Sales reporting.
-Necessary Systems: PowerBI, CRM System
-Other relevant information?: Budgets have been delivered in Excel for 2021.
+### Business Demand Overview and User Stories(Using Agile Framework)
+Business Demand Overview:
+- Reporter: xyz -Sales Manager
+- Value of Change: Visual Dashboards and Sales reporting.
+- Necessary Systems: PowerBI, CRM System
+- Other relevant information?: Budgets have been delivered in Excel for 2021.
 
 ### User Stories
 ![image](https://user-images.githubusercontent.com/109983335/234036553-d116c3c0-af6f-4c4a-b213-af67b31d54d3.png)
